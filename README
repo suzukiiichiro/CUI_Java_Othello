@@ -1,3 +1,4 @@
+【人工知能】ゲームプログラミング【DeepLearning】
 
 #Java Othello
 
@@ -17,9 +18,6 @@
 javac Othello.java ;
 #実行
 java Othello ;
-
-#コマの置き方チェック用
-#java BoardTest
 
 #定石ファイルは reversi.book 
 #定石ファイルにこだわりたくない人はファイルは空でよいです。
